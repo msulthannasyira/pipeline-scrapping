@@ -1,2 +1,2 @@
 # pipeline-scrapping
- ETL pipeline, termasuk ekstraksi data, transformasi data, serta load data
+ ETL pipeline, dengan ekstraksi data, transformasi data, serta load data
